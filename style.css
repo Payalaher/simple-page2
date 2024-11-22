@@ -22,7 +22,7 @@ html{
     height: 75%;
     width: 100%;
     background-color: lawngreen;
-    background-image: url(/1.png);
+    background-image: url(1.png);
     background-size: cover;
     background-position: center;
 }
